@@ -15,5 +15,5 @@ This is c program to learning operating system concept.
 3. Run these compiled program : > ./rr
 
 ## Documentation
-![alt text](https://github.com/ibnuhalimm/round-robin/blob/master/docs/img_01.png?raw=true "Source Code")
-![alt text](https://github.com/ibnuhalimm/round-robin/blob/master/docs/img_02.png?raw=true "Running Programs")
+![alt text](https://github.com/ibnuhalimm/round-robin/blob/master/docs/img_001.png?raw=true "Source Code")
+![alt text](https://github.com/ibnuhalimm/round-robin/blob/master/docs/img_002.png?raw=true "Running Programs")
